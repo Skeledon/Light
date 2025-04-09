@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 422564801173949572}
   - component: {fileID: 7244204028458098583}
   - component: {fileID: 2246320497757599707}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: ColorWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -99,7 +99,7 @@ BoxCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: d75f6947073e4344eaf90a45b9b94c4b, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
